@@ -1,8 +1,0 @@
-prefix=/home/prabhat/ros_ws/devel
-
-Name: ros_tutorial
-Description: Description of ros_tutorial
-Version: 0.0.0
-Cflags: -I/home/prabhat/ros_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: 

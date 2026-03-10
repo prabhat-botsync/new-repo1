@@ -1,0 +1,8 @@
+# ROS build artifacts
+build/
+devel/
+logs/
+
+# system
+*.log
+*.swp
